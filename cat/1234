@@ -1,0 +1,77 @@
+Console.WriteLine("INPUT Name:");
+            string Name = Console.ReadLine();
+            Console.WriteLine("INPUT Number:");
+            int Num = int.Parse(Console.ReadLine());
+            Console.WriteLine("Input Owner Name:");
+            string OW = Console.ReadLine();
+            Console.WriteLine("INPUT Money:");
+            string Input = Console.ReadLine();
+            int money = Convert.ToInt32(Input);
+            int percentage;
+            int thousand;
+            int fivehundred;
+            int hundred;
+            int fifty;
+            int twenty;
+            int ten;
+            int five;
+            int two;
+            int one;
+            double fiftysatang;
+            double twentyfivesatang;
+
+
+            thousand = money / 1000;
+            percentage = money % 1000;
+
+            fivehundred = money / 500;
+            percentage = money - (fivehundred * 500);
+
+            hundred = money / 100;
+            percentage = money - (hundred * 100);
+
+            fifty = money / 50;
+            percentage = money - (fifty * 50);
+
+            twenty = money / 20;
+            percentage = money - (twenty * 20);
+
+            ten = money / 10;
+            percentage = money - (ten * 10);
+
+            five = money / 5;
+            percentage = money - (five * 5);
+
+            two = money / 2;
+            percentage = money - (two * 2);
+
+            one = money / 1;
+
+            fiftysatang = money / 0.5;
+            ///percentage = money -(fiftysatang * 1/2);
+
+            twentyfivesatang = money / 0.25;
+            /// percentage = money-(twentyfivesatang * 1/4);
+
+
+
+
+
+            Console.WriteLine("---------Shop Information----------");
+            Console.WriteLine("Name:{0}", Name);
+            Console.WriteLine("Number:{0}", Num);
+            Console.WriteLine("Owner Name:{0}", OW);
+            Console.WriteLine("Registered Value:{0}", Input);
+            Console.WriteLine("------------------------------------");
+            Console.WriteLine(string.Format("1000:{0}", thousand));
+            Console.WriteLine(string.Format("500:{0}", fivehundred));
+            Console.WriteLine(string.Format("100:{0}", hundred));
+            Console.WriteLine(string.Format("50:{0}", fifty));
+            Console.WriteLine(string.Format("20:{0}", twenty));
+            Console.WriteLine(string.Format("10:{0}", ten));
+            Console.WriteLine(string.Format("5:{0}", five));
+            Console.WriteLine(string.Format("2:{0}", two));
+            Console.WriteLine(string.Format("1:{0}", one));
+            Console.WriteLine(string.Format("0.5:{0}", fiftysatang));
+            Console.WriteLine(string.Format("0.25:{0}", twentyfivesatang));
+            Console.ReadLine();

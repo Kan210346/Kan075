@@ -1,0 +1,15 @@
+C:\Users\KUN\Desktop\kan\cat\bin\Debug\net6.0\cat.exe
+C:\Users\KUN\Desktop\kan\cat\bin\Debug\net6.0\cat.deps.json
+C:\Users\KUN\Desktop\kan\cat\bin\Debug\net6.0\cat.runtimeconfig.json
+C:\Users\KUN\Desktop\kan\cat\bin\Debug\net6.0\cat.dll
+C:\Users\KUN\Desktop\kan\cat\bin\Debug\net6.0\ref\cat.dll
+C:\Users\KUN\Desktop\kan\cat\bin\Debug\net6.0\cat.pdb
+C:\Users\KUN\Desktop\kan\cat\obj\Debug\net6.0\cat.csproj.AssemblyReference.cache
+C:\Users\KUN\Desktop\kan\cat\obj\Debug\net6.0\cat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KUN\Desktop\kan\cat\obj\Debug\net6.0\cat.AssemblyInfoInputs.cache
+C:\Users\KUN\Desktop\kan\cat\obj\Debug\net6.0\cat.AssemblyInfo.cs
+C:\Users\KUN\Desktop\kan\cat\obj\Debug\net6.0\cat.csproj.CoreCompileInputs.cache
+C:\Users\KUN\Desktop\kan\cat\obj\Debug\net6.0\cat.dll
+C:\Users\KUN\Desktop\kan\cat\obj\Debug\net6.0\ref\cat.dll
+C:\Users\KUN\Desktop\kan\cat\obj\Debug\net6.0\cat.pdb
+C:\Users\KUN\Desktop\kan\cat\obj\Debug\net6.0\cat.genruntimeconfig.cache
